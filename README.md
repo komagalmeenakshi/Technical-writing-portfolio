@@ -1,2 +1,2 @@
 # Technical-writing-portfolio
-My Technical writing portfolio for interviews
+Technical writing portfolio showcasing API documentation, user documentation, tutorials, and other documentation projects.
