@@ -1,4 +1,4 @@
-#Technical Writing Portfolio | Komagal Meenakshi
+# Technical Writing Portfolio | Komagal Meenakshi
 
 Welcome to my technical writing portfolio.
 
